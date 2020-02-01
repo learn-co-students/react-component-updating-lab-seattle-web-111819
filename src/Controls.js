@@ -15,7 +15,6 @@ class Controls extends PureComponent {
     );
   }
 
-
 }
 
 export default Controls
